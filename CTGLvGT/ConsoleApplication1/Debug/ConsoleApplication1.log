@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+D:\CTGLvGT\ConsoleApplication1\ConsoleApplication1.cpp(25): error C4700: uninitialized local variable 'num' used

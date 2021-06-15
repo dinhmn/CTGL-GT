@@ -1,0 +1,6 @@
+The computer does its primary work in a part of the machine we cannot see, a control center that converts data input to information output. This control center, called the central processing unit (CPU), is a highly complex, extensive set of electronic circuitry that executes stored program instructions. All computers, large and small, must have a central processing unit. The central processing unit consists of two parts: The control unit and the arithmetic/logic unit. Each part has a specific function.
+
+
+Before we discuss the control unit and the arithmetic/logic unit in detail, we need to consider data storage and its relationship to the central processing unit. Computers use two types of storage: Primary storage and secondary storage. The CPU interacts closely with primary storage, or main memory, referring to it for both instructions and data. For this reason this part of the reading will discuss memory in the context of the central processing unit. Technically, however, memory is not part of the CPU.
+
+Recall that a computer's memory holds data only temporarily, at the time the computer is executing a program. Secondary storage holds permanent or semi-permanent data on some external magnetic or optical medium. The diskettes and CD-ROM disks that you have seen with personal computers are secondary storage devices, as are hard disks.

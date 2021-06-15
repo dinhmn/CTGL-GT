@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619106929 source:d:\ctglvgt\sjf_demo_morningmonday\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
